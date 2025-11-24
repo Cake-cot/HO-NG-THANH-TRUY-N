@@ -1,0 +1,48 @@
+﻿  main.cpp
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(69,17): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(111,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(115,17): warning C4566: character represented by universal-character-name '\u1EDA' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(156,21): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(156,21): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(163,17): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(201,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(213,17): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(223,21): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(223,21): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\DanhSachPhuongTien.h(257,21): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+  (compiling source file 'main.cpp')
+  
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(83,21): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(83,21): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(87,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(106,21): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(109,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(138,21): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(147,21): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(181,32): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(181,32): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(185,32): warning C4566: character represented by universal-character-name '\u26A0' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(185,32): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(238,29): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\QLPTGT\main.cpp(240,25): warning C4566: character represented by universal-character-name '\u274C' cannot be represented in the current code page (1252)
+  QLPTGT.vcxproj -> C:\Users\Truyen\source\repos\LTHDT_QLPTGT\QLPTGT\x64\Debug\QLPTGT.exe
